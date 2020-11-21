@@ -2,6 +2,6 @@
 
 Main function is in the sentiment classifier.py file
 
-/ reader contains dataset loader
-/ model contains perceptron and gradient descent function
-/ data contains raw data and GridSearchCV output
+\n/ reader contains dataset loader
+\n/ model contains perceptron and gradient descent function
+\n/ data contains raw data and GridSearchCV output
